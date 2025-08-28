@@ -1,16 +1,26 @@
 ## Hi there 👋
+## Olá, me chamo Maria Letícia! 👋
 
-<!--
-**omeIets/omeIets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software e atualmente estou focada em estabelecer conhecimentos sólidos desde conceitos basilares relacionados à lógica e programação. Gosto de criar projetos que resolvem problemas reais e aprender tecnologias modernas para melhorar a comunicação e a organização entre sistemas.
+Além disso, participo do projeto MouraTech, oferecido pela Acumuladores Moura, em que estou tendo a oportunidade de aprender e ter contato e experiência direta com tópicos e tecnologias relacionados à Segurança da Informação e Infraestrutura.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias que estou aprendendo / utilizando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens: Python, C, Java e JavaScript (Node.js)
+
+Contêineres e Orquestração: Docker, Kubernetes
+
+
+### 📫 Onde me encontrar
+
+LinkedIn: www.linkedin.com/in/maria-letícia-barboza
+
+E-mail: maria.leticiasbarboza@gmail.com
+
+
+### ✨ Curiosidades sobre mim
+
+📚 Optei pela área da tecnologia pois desde pequena nutri amor pela matemática
+
+🎮 Inicial meu percurso na programação através de programas voltados à inclusão de mulheres na área e é um tópico que tenho interesse em também contribuir futuramente
+
