@@ -1,5 +1,4 @@
-## Hi there 👋
-## Olá, me chamo Maria Letícia! 👋
+## Hi there 👋 / Olá, me chamo Maria Letícia! 👋
 
 Sou estudante de Engenharia de Software e atualmente estou focada em estabelecer conhecimentos sólidos desde conceitos basilares relacionados à lógica e programação. Gosto de criar projetos que resolvem problemas reais e aprender tecnologias modernas para melhorar a comunicação e a organização entre sistemas.
 Além disso, participo do projeto MouraTech, oferecido pela Acumuladores Moura, em que estou tendo a oportunidade de aprender e ter contato e experiência direta com tópicos e tecnologias relacionados à Segurança da Informação e Infraestrutura.
@@ -22,5 +21,5 @@ E-mail: maria.leticiasbarboza@gmail.com
 
 📚 Optei pela área da tecnologia pois desde pequena nutri amor pela matemática
 
-🎮 Inicial meu percurso na programação através de programas voltados à inclusão de mulheres na área e é um tópico que tenho interesse em também contribuir futuramente
+🎮 Iniciei meu percurso na programação através de programas voltados à inclusão de mulheres na área e é um tópico que tenho interesse em também contribuir futuramente
 
