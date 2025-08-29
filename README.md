@@ -21,5 +21,5 @@ E-mail: maria.leticiasbarboza@gmail.com
 
 📚 Optei pela área da tecnologia pois desde pequena nutri amor pela matemática
 
-😼 Iniciei meu percurso na programação através de programas voltados à inclusão de mulheres na área, tópico o qual também gostaria de engajar em projetos futuros
+🙋🏻‍♀️ Iniciei meu percurso na programação através de programas voltados à inclusão de mulheres na área, tópico o qual também gostaria de engajar em projetos futuros
 
